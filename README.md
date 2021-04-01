@@ -58,6 +58,7 @@
 
 **Operational System**
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)](https://github.com/henriiqueg/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-0078D6?style=flat-square&logo=Ubuntu)](https://github.com/henriiqueg/)
 
 **IDE**
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode)](https://github.com/henriiqueg/)
