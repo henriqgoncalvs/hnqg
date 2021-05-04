@@ -8,7 +8,7 @@
 
 👨‍💻 <strong>I'm a developer driven by challenges and the pleasure of creating</strong>
 
-<img height="22" src="https://avatars.githubusercontent.com/u/68288528?s=200&v=4">  **I'm currently developing Frontend applications and managing teams at [Loomi](https://github.com/loomi) and [Gravidade Zero](https://gravidadezero.space)** 
+<img height="22" src="https://avatars.githubusercontent.com/u/68288528?s=200&v=4">  **I'm currently developing applications and managing teams at [Loomi](https://github.com/loomi) and [Gravidade Zero](https://gravidadezero.space)** 
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=henriiqueg&show_icons=true">
 
