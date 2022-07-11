@@ -1,41 +1,43 @@
 # Hi, I'm Henrique Gonçalves 🤓
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/henriiqueg_/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henriiqueg/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/henriiqueg_/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/henriiqueg)
 
 ## About me
 
-👨‍💻 <strong>I'm a developer driven by challenges and the pleasure of creating</strong>
+👨‍💻 <strong>I'm a developer driven by challenges and the pleasure of creating.</strong>
+<p>🥁🎧 I listen to music all the time and play drums when my neighbors aren't complaining about it.</p>
 
-<img height="22" src="https://avatars.githubusercontent.com/u/68288528?s=200&v=4">  **I'm currently developing applications and managing teams at [Loomi](https://github.com/loomi) and [Gravidade Zero](https://gravidadezero.space)** 
+<img height="22" src="https://assets.pagseguro.com.br/ps-bootstrap/v6.82.1/img/logos/pagbank/pagbank-logo-animado_30px@2x.gif">  **I'm currently working at [UOL Compass](https://compass.uol) alocated at [PagSeguro/PagBank](https://pagseguro.uol.com.br)** 
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=henriiqueg&show_icons=true">
 
+<br />
+
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriiqueg&theme=white">
+
 ## Languages and Technologies I use
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://vuejs.org/images/logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ## Knowledge
 
 **Languages**
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/henriiqueg/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/henriiqueg/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)](https://github.com/henriiqueg/)
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://github.com/henriiqueg/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/henriiqueg/)
 
 **Front-end**
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/henriiqueg/)
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)](https://github.com/henriiqueg/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&style=flat-square&logo=vuedotjs&logoColor=4FC08D)](https://github.com/henriiqueg/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/henriiqueg/)
 [![Framer Motion](https://img.shields.io/badge/-Framer-blue?style=flat-square&logo=framer)](https://github.com/henriiqueg/)
 [![Ant Design](https://img.shields.io/badge/-Ant%20Design-white?style=flat-square&logo=ant%20design&logoColor=blue)](https://github.com/henriiqueg/)
@@ -57,7 +59,6 @@
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)](https://github.com/henriiqueg/)
 
 **Operational System**
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)](https://github.com/henriiqueg/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-0078D6?style=flat-square&logo=Ubuntu)](https://github.com/henriiqueg/)
 
 **IDE**
