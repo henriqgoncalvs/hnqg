@@ -1,9 +1,14 @@
 # Hi, I'm Henrique Gonçalves 🤓
 
+#### Follow me on my social media
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henriiqueg/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/henriiqueg_/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/henriiqueg)
 
+#### I'm listening to this song
+
+[![follow me on spotify](https://spotify-github-profile.vercel.app/api/view?uid=henriquesg09&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/henriquesg09)
 ## About me
 
 👨‍💻 <strong>I'm a developer driven by challenges and the pleasure of creating.</strong>
