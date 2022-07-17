@@ -1,4 +1,4 @@
-<a target="_blank" href="https://pt.wikipedia.org/wiki/Memento_mori"><img src="https://user-images.githubusercontent.com/25696006/179410438-d1618ebd-5c53-43f6-b179-99b1974bc441.png" /></a>
+<a target="_blank" href="https://en.wikipedia.org/wiki/Memento_mori"><img src="https://user-images.githubusercontent.com/25696006/179410438-d1618ebd-5c53-43f6-b179-99b1974bc441.png" /></a>
 
 **I'm a frontend engineer driven by challenges and the pleasure of creating.**
 
