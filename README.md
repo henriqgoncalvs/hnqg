@@ -6,19 +6,23 @@ currently working at [PagSeguro/PagBank](https://pagseguro.uol.com.br) <img heig
 
 ---
 
-### 👨‍💻 the developer
+### !developer
 
-the techonologies i use all the time are Typescript, React, Next.js, Vue.js, ChakraUI, TailwindCSS, Zustand, NestJS for backend, AWS (mostly S3) and Vercel for deploy. besides that, i'm always testing something new in the React community, so i've done at least one small project with the most famous libraries.
+the techonologies i use all the time are Typescript, React, Next.js, Vue.js, ChakraUI, TailwindCSS, Zustand, NestJS for backend, AWS (mostly S3) and Vercel for deploy. besides that, i'm always testing something new in the React community, just for fun.
 
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriiqueg&theme=dark&layout=compact&custom_title=top langs">
 
-### 🏢 the coworker
+### !coworker
 
 if you follow the [No Hello Policy](https://nohello.net/) there's a 100% of chance that we will be awesome coworkers and will build awesome stuff together. so, PLEASE, use the No Hello Policy.
 
-### 💀 the person
+async communication is THE BOMB, and hey, what a coincidence, Slack even [wrote a blog post teaching how to communicate asynchronously](https://slack.com/intl/pt-br/blog/collaboration/asynchronous-communication-best-practices).
 
-I'm obssessed with every kind of art, from <a href="">movies</a> to <a href="https://open.spotify.com/user/henriquesg09" target="_blank">music</a>, from <a href="https://en.wikipedia.org/wiki/Not_to_Be_Reproduced#/media/File:Portrait_of_Edward_James.jpg" target="_blank">paintings</a> to <a href="https://akiramanga.com/" target="_blank">hqs</a>, from design to tattoo.
+need some help with code? [that's the best way to ask programming questions.](https://blog.dhravya.dev/help/)
+
+### !person
+
+I'm obssessed with every kind of art, from <a href="https://letterboxd.com/henriqueg/list/alredy-seen/">movies</a> to <a href="https://open.spotify.com/user/henriquesg09" target="_blank">music</a>, from <a href="https://en.wikipedia.org/wiki/Not_to_Be_Reproduced#/media/File:Portrait_of_Edward_James.jpg" target="_blank">paintings</a> to <a href="https://akiramanga.com/" target="_blank">hqs</a>, from design to tattoo.
 
 I like the Japanese culture and its figures a lot, that's why i have a Ryu tattoed in my arm. also i like the concept of <i>memento mori</i>, it keeps me moving every day (that's why i tattoed as well).
 
