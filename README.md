@@ -10,7 +10,7 @@ currently working at [PagSeguro/PagBank](https://pagseguro.uol.com.br) <img heig
 
 the techonologies i use all the time are Typescript, React, Next.js, Vue.js, ChakraUI, TailwindCSS, Zustand, NestJS for backend, AWS (mostly S3) and Vercel for deploy. besides that, i'm always testing something new in the React community, just for fun.
 
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnqg&theme=dark&layout=compact&custom_title=top langs">
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnqg&theme=dark&layout=compact&custom_title=top%20langs">
 
 ### !coworker
 
