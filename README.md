@@ -4,7 +4,7 @@ I'm a software developer based in Brazil. I'm focused on front-end tech, but als
 
 Currently working at a fintech named [PagSeguro PagBank](https://pagseguro.uol.com.br/) and side projects.
 
-[LinkedIn](https://www.linkedin.com/in/henriiqueg/)
+[LinkedIn](https://www.linkedin.com/in/henriiqueg/) <br />
 [Instagram](https://www.instagram.com/_hnqg/)
 
 👊
