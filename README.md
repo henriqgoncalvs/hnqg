@@ -1,6 +1,6 @@
 Hey 🖐️, I'm Henrique.
 
-I'm a software developer based in Brazil. I'm focused on front-end tech, but also interested in back-end, UI design, software architecture and open source.
+I'm a software developer based in Brazil. I'm focused on front-end tech, but also interested in back-end, UI design, software architecture, design systems and open source.
 
 Currently working at a fintech named [PagSeguro PagBank](https://pagseguro.uol.com.br/) and side projects. I'm also majoring in Software Engineering @ [UNICESUMAR](https://inscricoes.unicesumar.edu.br/curso/engenharia-de-software).
 
